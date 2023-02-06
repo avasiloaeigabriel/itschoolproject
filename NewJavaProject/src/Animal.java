@@ -9,6 +9,8 @@ public class Animal {
     private int number6;
     private int number7;
 
+    //
+
     public int getAge() {
         return age;
     }
