@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello world!");
         System.out.println("It's a new line!");
         System.out.println("The second line");
+        System.out.println("asdfasdfasdf");
     }
 }
